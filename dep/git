@@ -7,4 +7,6 @@
 <{$ GIT}>/xss
 <{$ GIT}>/xsel
 <{$ GIT}>/xzoom
+<{$ GIT}>/xplumb
+<{$ GIT}>/xgeo
 
